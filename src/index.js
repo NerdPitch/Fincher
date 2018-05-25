@@ -1,3 +1,11 @@
-export default function fincher() {
+export default class Fincher {
+
+    /**
+     * Represents a Fincher
+     * @constructor
+     */
+    constructor () {
+
+    }
 
 }
